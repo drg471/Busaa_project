@@ -34,6 +34,12 @@ La plataforma está compuesta por:
 - Modelo de características y niveles de energía  
 - Registro de adopciones, compatibilidades y preferencias
 
+<a href="https://youtu.be/EqJbdHHcwe8">
+  <img src="https://img.youtube.com/vi/EqJbdHHcwe8/maxresdefault.jpg" 
+       alt="Ver demo"
+       width="600" />
+</a>
+
 ### ⚙️ API REST (Backend principal)  
 **Lenguaje:** C#  
 **Tipo:** API RESTful  
