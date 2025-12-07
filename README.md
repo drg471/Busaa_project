@@ -49,7 +49,7 @@ La plataforma está compuesta por:
 
 Haz clic en el enlace para ver video demo:
 
-[➡ Ver demo en YouTube](https://youtu.be/EqJbdHHcwe8)
+[➡ Ver demo en YouTube](https://youtu.be/eNovQS90kXE)
 
 ### 📱 Aplicación Android (Usuarios)  
 **Tecnología:** Kotlin / JetPack Compose  
