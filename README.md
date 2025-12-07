@@ -13,7 +13,7 @@ La plataforma está compuesta por:
 
 - **Base de datos en Microsoft SQL Server**
 - **API REST en C#**  
-- **Aplicación Android nativa**  
+- **Aplicación Android (Kotlin)**  
 - **Aplicación web para protectoras (Java Spring Boot)**  
 
 
@@ -34,12 +34,6 @@ La plataforma está compuesta por:
 - Modelo de características y niveles de energía  
 - Registro de adopciones, compatibilidades y preferencias
 
-#### 🎥 Demo del Proyecto
-
-Haz clic en el enlace para ver el video de la demo completa de **Busaa**:
-
-[➡ Ver demo en YouTube](https://youtu.be/EqJbdHHcwe8)
-
 
 ### ⚙️ API REST (Backend principal)  
 **Lenguaje:** C#  
@@ -49,17 +43,29 @@ Haz clic en el enlace para ver el video de la demo completa de **Busaa**:
 - Lógica del sistema de matching  
 - CRUD de animales, usuarios y protectoras  
 - Gestión de solicitudes de adopción  
-- Intermediario entre Android y la web administrativa  
+- Intermediario entre Android y la web administrativa
+
+#### 🎥 Demo
+
+Haz clic en el enlace para ver video demo:
+
+[➡ Ver demo en YouTube](https://youtu.be/EqJbdHHcwe8)
 
 ### 📱 Aplicación Android (Usuarios)  
-**Tecnología:** Android SDK (Java o Kotlin)  
+**Tecnología:** Kotlin / JetPack Compose  
 **Funciones:**
 - Perfil del usuario  
 - Sistema de compatibilidad (matching)  
 - Listado y filtrado de animales  
 - Detalle completo del animal  
 - Favoritos  
-- Contacto con protectoras  
+- Contacto con protectoras
+
+#### 🎥 Demo
+
+Haz clic en el enlace para ver video demo:
+
+[➡ Ver demo en YouTube](https://www.youtube.com/watch?v=2S85uf3Y8Qw)
 
 ### 🐾 Aplicación Web – Protectoras  
 **Tecnología:** Java Spring Boot  
@@ -68,7 +74,13 @@ Haz clic en el enlace para ver el video de la demo completa de **Busaa**:
 - Gestión de animales  
 - Subida de fotos e información relevante  
 - Panel administrativo interno  
-- Control del estado de adopciones  
+- Control del estado de adopciones
+
+#### 🎥 Demo
+
+Haz clic en el enlace para ver video demo:
+
+[➡ Ver demo en YouTube](https://youtu.be/QVzZvbrj2rY)
 
 ## ⭐ Características Destacadas
 
@@ -108,10 +120,6 @@ Diseñada para ser:
 ## 🚀 Motivación Personal
 
 Busaa busca aportar una mejora real al proceso de adopción, ayudando a reducir el número de animales en refugios y promoviendo decisiones conscientes y responsables.
-
-## 🖼️ Galería del Proyecto  
-
-(Images)
 
 ## 📬 Contacto
 
