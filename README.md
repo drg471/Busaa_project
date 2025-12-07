@@ -34,11 +34,16 @@ La plataforma está compuesta por:
 - Modelo de características y niveles de energía  
 - Registro de adopciones, compatibilidades y preferencias
 
-<a href="https://youtu.be/EqJbdHHcwe8">
-  <img src="https://img.youtube.com/vi/EqJbdHHcwe8/maxresdefault.jpg" 
-       alt="Ver demo"
-       width="600" />
-</a>
+<p align="center">
+  <a href="https://youtu.be/EqJbdHHcwe8">
+    <img src="https://img.youtube.com/vi/EqJbdHHcwe8/hqdefault.jpg" 
+         alt="Ver demo"
+         width="600" 
+         style="position:relative;" />
+    <img src="https://img.icons8.com/ios-filled/100/ffffff/play--v1.png" 
+         style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width:80px;" />
+  </a>
+</p>
 
 ### ⚙️ API REST (Backend principal)  
 **Lenguaje:** C#  
