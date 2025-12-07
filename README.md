@@ -110,5 +110,4 @@ Busaa busca aportar una mejora real al proceso de adopción, ayudando a reducir 
 
 Si deseas más información, revisar el proyecto o acceder al repositorio privado:
 
-📧 tu-email-aquí  
-🔗 LinkedIn: tu-linkedin-aquí
+🔗 LinkedIn: https://www.linkedin.com/in/david-roga/
